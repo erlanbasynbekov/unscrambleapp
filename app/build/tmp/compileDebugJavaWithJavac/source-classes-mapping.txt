@@ -1,0 +1,20 @@
+com/example/android/unscramble/databinding/GameFragmentBinding.java
+ com.example.android.unscramble.databinding.GameFragmentBinding
+com/example/android/unscramble/DataBinderMapperImpl.java
+ com.example.android.unscramble.DataBinderMapperImpl
+ com.example.android.unscramble.DataBinderMapperImpl$InnerBrLookup
+ com.example.android.unscramble.DataBinderMapperImpl$InnerLayoutIdLookup
+com/example/android/unscramble/DataBindingTriggerClass.java
+ com.example.android.unscramble.DataBindingTriggerClass
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/example/android/unscramble/databinding/GameFragmentBindingImpl.java
+ com.example.android.unscramble.databinding.GameFragmentBindingImpl
+com/example/android/unscramble/BR.java
+ com.example.android.unscramble.BR
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/example/android/unscramble/BuildConfig.java
+ com.example.android.unscramble.BuildConfig
